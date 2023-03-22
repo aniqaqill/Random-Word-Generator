@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/namer_by_aniq.iml" filepath="$PROJECT_DIR$/namer_by_aniq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/namer_by_aniq_android.iml" filepath="$PROJECT_DIR$/android/namer_by_aniq_android.iml" />
+    </modules>
+  </component>
+</project>
